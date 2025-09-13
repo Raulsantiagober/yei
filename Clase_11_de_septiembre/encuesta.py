@@ -72,3 +72,4 @@ for i in range(10):
 encuesta.mostrar_resultados()
 
 encuesta.resumen()
+
